@@ -6,6 +6,7 @@ This repository contains my work for MB5370 – Data Analyses at the Global Scal
 The repository includes JavaScript scripts developed using Google Earth Engine (GEE) for spatial and environmental data analysis, with a focus on marine and coastal applications.
 
 Repository Structure
+```
 JavaScript_Data/
 ├── Workshop_1/
 │   ├── MB5370_Workshop1_Javascript_day1.js
@@ -17,7 +18,7 @@ JavaScript_Data/
 │   └── MB5370_Workshop3_Nightlights_in_coastal_ecoregions.js
 └── Workshop_4/
     └── MB5370_Workshop4_Allen_Coral_Atlas.js
-
+...
 Workshops
 
 Workshop 1 – JavaScript and Earth Engine Basics
