@@ -1,3 +1,7 @@
+//********************************//
+// MB5370 earth engine module : Workshop 2 //
+//********************************//
+
 // Change the map background to satellite imagery
 Map.setOptions ('SATELLITE')
 // var snazzy = require("users/aazuspan/snazzy:styles");
