@@ -18,7 +18,7 @@ JavaScript_Data/
 │   └── MB5370_Workshop3_Nightlights_in_coastal_ecoregions.js
 └── Workshop_4/
     └── MB5370_Workshop4_Allen_Coral_Atlas.js
-...
+```
 Workshops
 
 Workshop 1 – JavaScript and Earth Engine Basics
