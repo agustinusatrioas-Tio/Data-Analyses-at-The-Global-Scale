@@ -1,6 +1,6 @@
-//***********************//
-//    Workshop 3         //
-//***********************//
+//********************************//
+// MB5370 earth engine module : Workshop 3 //
+//********************************//
 
 // Load the population
 var population = ee.ImageCollection("CIESIN/GPWv411/GPW_Population_Count")
