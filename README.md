@@ -22,6 +22,7 @@ JavaScript_Data/
 Workshops
 
 Workshop 1 – JavaScript and Earth Engine Basics
+
 Introduction to JavaScript syntax, variables, lists, dictionaries, Earth Engine objects, and basic map visualisation.
 
 Workshop 2 – Filters and Computation
