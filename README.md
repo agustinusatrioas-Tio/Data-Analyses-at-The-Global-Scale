@@ -26,18 +26,22 @@ Workshop 1 – JavaScript and Earth Engine Basics
 Introduction to JavaScript syntax, variables, lists, dictionaries, Earth Engine objects, and basic map visualisation.
 
 Workshop 2 – Filters and Computation
+
 Working with Earth Engine datasets, filtering data, and performing basic spatial computations.
 
 Workshop 3 – Nightlights in Coastal Ecoregions
+
 Using satellite-derived nightlight data to explore spatial patterns across coastal and marine ecoregions.
 
 Workshop 4 – Allen Coral Atlas
-Working with coral reef spatial datasets and Google Earth Engine tools for marine spatial analysis.
 
+Working with coral reef spatial datasets and Google Earth Engine tools for marine spatial analysis.
+```
 Tools
 Google Earth Engine
 JavaScript
 GitHub
-
+```
 Purpose
+
 This repository documents my progress in using cloud-based geospatial analysis and reproducible coding workflows for marine science applications.
