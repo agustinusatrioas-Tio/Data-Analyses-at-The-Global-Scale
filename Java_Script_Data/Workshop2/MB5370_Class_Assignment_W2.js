@@ -50,7 +50,9 @@ var hadal = bedrock
 
 Map.addLayer(hadal,{
   palette:['darkblue']},
-  'Hadal trenches'
+  'Hadal trenches', 
+  true,
+  0.85
 );
 
 // Abyssal plains: 3000–6000 m depth
@@ -62,7 +64,9 @@ var abyssal = bedrock
 Map.addLayer(
   abyssal,
   {palette: ['lightblue']},
-  'Abyssal plains'
+  'Abyssal plains',
+  true,
+  0.55
 );
 
 //Continental and island slopes: 250–3000 m depth
@@ -80,7 +84,7 @@ Map.addLayer(
   },
   'Continental and island slopes',
   true,
-  0.65
+  0.55
 );
 
 // Calculate seafloor slope in degrees
@@ -113,7 +117,7 @@ Map.addLayer(
   },
   'Potential submarine canyons',
   true,
-  1
+  0.9
 );
 
 print('Submarine canyon raster:', submarineCanyons);
@@ -136,7 +140,7 @@ var protectedAreasView = ui.Map.FeatureViewLayer(
 // Style the protected-area layer
 protectedAreasView.setVisParams({
   color: 'white',
-  opacity: 0.15
+  opacity: 0.35
 });
 
 protectedAreasView.setName('Protected Areas');
