@@ -46,3 +46,9 @@ GitHub
 ### Purpose
 
 This repository documents my progress in using cloud-based geospatial analysis and reproducible coding workflows for marine science applications.
+
+## Author
+
+**Agustinus Satrio Supoyo**  
+Master of Marine Biology  
+James Cook University
